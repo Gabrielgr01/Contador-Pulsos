@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 11/02/2021 10:57:19 PM
+// Create Date: 11/04/2021 03:16:34 PM
 // Design Name: 
 // Module Name: Traductor_BCD
 // Project Name: 
